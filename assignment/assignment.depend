@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699078331 source:c:\users\kathleen\onedrive\documents\ntu\1003 c\assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
